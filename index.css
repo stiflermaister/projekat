@@ -1,0 +1,34 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration: underline chartreuse;
+    text-align: center;
+    
+}
+
+ul{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: vertical;
+}
+
+
+
+h2{
+    
+    text-align: center;
+    background-color: fuchsia;
+}
+
+h2:hover{
+    background-color: blueviolet;
+    animation-duration: 1s;
+}
+
+body {
+    background-image: url('https://b2c-contenthub.com/wp-content/uploads/2024/09/iphone_16_lineup.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    
+}
